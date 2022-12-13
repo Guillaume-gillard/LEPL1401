@@ -1,10 +1,7 @@
 # Guillaume Gillard 
 # 12/12/2022
 
-class Node():
-    pass
-class LinkedList():
-    pass
+from linkedlist import LinkedList, Node 
 
 ### Code to complete [START] ###
 
