@@ -1,3 +1,6 @@
+
+#### Code Complet de la classe Node et LinkedList en fonction des exercices inginious ####
+
 class Node:
     """ Represents a Node in a LinkedList data structure. """
 
@@ -98,6 +101,19 @@ class LinkedList :
         self.__head = None 
         for i in range(1, len(lst)+1):
             self.__head = Node(lst[-i], self.__head)
+
+    def __str__(self):
+        s = "[ "
+        current = self.__head
+        if current == None :
+            return "[ ]"
+        while True :
+            s += str(current.value()) + " "
+            if current.next() == None :
+                break
+            current = current.next()
+        s += "]"
+        return s
 
     def size(self):
         """
