@@ -10,5 +10,4 @@ def merge(first_list, second_list):
             if y <= l[i][1] :
                 l.insert(i, [x, y])
                 break
-    return l
-            
+    return l          
