@@ -1,1 +1,1 @@
-# Correctif des exercices ingenious 2022
+# Correctif des exercices inginious 2022
