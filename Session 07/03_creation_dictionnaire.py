@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 15/11/2022
-
 ### Code to complete [START] ###
 
 def create_dict(l):
