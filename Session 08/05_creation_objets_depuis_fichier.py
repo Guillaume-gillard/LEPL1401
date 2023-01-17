@@ -1,5 +1,5 @@
-# Guillaume Gillard 
-# 21/12/2022
+class Student :
+    pass
 
 #### Code to complete [START] ####
 

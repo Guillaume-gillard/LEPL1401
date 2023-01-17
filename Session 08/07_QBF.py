@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 25/11/2022 
-
 ### Code to complete [START] ###
 
 class Employe :

@@ -1,7 +1,3 @@
-# Guillaume Gillard
-# 20/11/2022
-
-
 class Pair:
 
     def __init__(self, x, y):

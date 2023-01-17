@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 22/11/2022
-
 class Pair :
     pass 
 
