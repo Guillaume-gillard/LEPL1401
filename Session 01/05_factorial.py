@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 05/10/2022
-
 x = ... #the number
 result = ... #store in this variable the factorial of x
 

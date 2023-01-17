@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 05/10/2022
-
 s0 = ...    #Entier de départ
 
 ### Code to complete [START] ###
