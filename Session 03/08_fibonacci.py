@@ -1,7 +1,3 @@
-# Guillaume Gillard
-# 14/10/2022 
-
-
 ### Code to complete [START] ###
 
 

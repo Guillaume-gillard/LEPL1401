@@ -1,7 +1,3 @@
-# Guillaume Gillard
-# 09/11/2022
-
-
 def racine_carree(n):
     """
     Calcule une racine carree

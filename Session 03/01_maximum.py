@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 07/10/2022
-
 ### Code to complete [START] ###
 
 def afficheMax(a, b):

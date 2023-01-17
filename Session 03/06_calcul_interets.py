@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 14/10/2022
-
 def interests(base, y, x):
 
     ### Code to complete [START] ###

@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 08/10/2022
-
 ### Code to complete [START] ###
 
 def quetelet(height, weight):
