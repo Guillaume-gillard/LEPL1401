@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 28/10/2022
-
 ### Code to complete [START] ###
 
 def count(events, i, j):

@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 08/11/2022
-
 a_list = ... #list to sort
 sorted_list = ... #store in this variable the sorted version of the list
 

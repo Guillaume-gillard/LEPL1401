@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 17/01/2022
-
 knowledge = [['Gryffindor', ['brave', 'strong', 'bold']],
              ['Ravenclaw', ['smart', 'wise', 'curious']],
              ['Hufflepuff', ['loyal', 'patient', 'hard-working']],

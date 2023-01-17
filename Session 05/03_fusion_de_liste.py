@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 22/12/2022
-
 ### Code to complete [START] ###
 
 def merge(first_list, second_list):
