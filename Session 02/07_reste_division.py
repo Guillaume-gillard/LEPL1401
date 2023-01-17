@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 07/10/2022
-
 a = ... #variable to evaluate
 b = ... #variable to evaluate
 rest = ... #store in this variable the remainder of the division a/b

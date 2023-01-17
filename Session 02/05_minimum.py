@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 06/10/2022
-
 a = ... #variable to evaluate
 b = ... #variable to evaluate
 c = ... #variable to evaluate

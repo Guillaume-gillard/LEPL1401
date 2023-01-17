@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 06/10/2022
-
 a = ... #lower bound of the interval
 b = ... #upper bound of the interval
 x = ... #variable to evaluate

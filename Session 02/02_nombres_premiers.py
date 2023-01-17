@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 07/10/2022
-
 is_prime = True
 n = ...             #Un entier supérieur à 1
 

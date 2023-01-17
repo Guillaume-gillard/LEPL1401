@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 06/10/2022
-
 n = ...    #Borne supérieure
 
 ### code to complete [START] ###

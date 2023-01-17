@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 06/10/2022
-
 i = ...    # the number to check (i >= 1)
 temp = ... # "fizz", "buzz", "fizzbuzz" or "no" depending on i's value
 

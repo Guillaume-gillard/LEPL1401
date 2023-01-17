@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 05/10/2022
-
 some_value = ...
 
 ### code to complete [START] ###
