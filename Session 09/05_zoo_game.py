@@ -25,8 +25,8 @@ class Animal():
         self.asleep = False
 
 class Lion(Animal):
-    def __init__(self, n):
-        super().__init__(n)
+    def __init__(self, name):
+        super().__init__(name)
         self.nb_legs = 4
         self.diurnal = True
     
