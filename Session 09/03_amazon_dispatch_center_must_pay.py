@@ -1,7 +1,3 @@
-# Guillaume Gillard
-# 22/12/2022
-
-
 class Employee():
     def __init__(self, pay):
         self.pay = pay

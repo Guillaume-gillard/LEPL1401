@@ -1,7 +1,3 @@
-# Guillaume Gillard 
-# 14/12/2022
-
-
 ### Code to complete [START] ###
 
 def __eq__(self, p):

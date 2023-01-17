@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 02/12/2022
-
 class Item :
 
     def __init__(self,author,title,serial):
@@ -24,11 +21,7 @@ class Item :
         """
         return "[{}] {}, {}".format(self.__serial,self.__author,self.__title)
 
-
-################################
 ### Code to complete [START] ###
-################################
-
 
     def author(self):
         return self.__author

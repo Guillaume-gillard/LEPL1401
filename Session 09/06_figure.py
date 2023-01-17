@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 17/01/2023
-
 class Figure:
     def __init__(self,x,y,visible=False) :
         """

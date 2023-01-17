@@ -1,7 +1,3 @@
-# Guillaume Gillard
-# 23/12/2022
-
-
 #### Code to complete [START] ####
 
 class Animal():

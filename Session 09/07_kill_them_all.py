@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 21/12/2022
-
 #### Code to complete [START] ####
 
 class Character():

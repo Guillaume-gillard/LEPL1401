@@ -1,7 +1,3 @@
-# Guillaume Gillard
-# 20/12/2022
-
-
 #### Code to complete [START] ####
 
 class Student():

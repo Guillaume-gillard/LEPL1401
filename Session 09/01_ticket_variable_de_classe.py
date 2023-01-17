@@ -1,7 +1,3 @@
-# Guillaume Gillard
-# 20/12/2022
-
-
 class Ticket() :
 
     __prochain_numero = 1  # variable de classe pour générer le numéro du ticket
