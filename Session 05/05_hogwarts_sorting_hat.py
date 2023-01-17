@@ -16,5 +16,5 @@ def house_designation(student_qualities):
             if quality in house[1]:
                 house_score[house[0]] += 1
     # Sorting the houses
-    house_classement = sorted(house_score, key=house_score.get, reverse=True) # No brackets to get because we are just passing a reference to the method and not the result of the method
+    house_classement = sorted(house_score, key=house_score.get, reverse=True) # No brackets to the get method because we are just passing a reference to the method and not the result of the method
     return house_classement
