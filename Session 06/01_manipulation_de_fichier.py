@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 02/11/2022
-
 ### Code to complete [START] ###
 
 # Question 1

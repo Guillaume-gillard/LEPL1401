@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 23/12/2022
-
 ### Code to complete [START] ###
 
 ### Question 1: Ecriture de coordonnées ###

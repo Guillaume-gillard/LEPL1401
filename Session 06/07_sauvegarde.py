@@ -1,6 +1,3 @@
-# Guillaume Gillard 
-# 20/12/2022
-
 ### Code to complete [START] ###
 
 #save the 4 integer to the file named filename

@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 04/11/2022
-
 ### Code to complete [START] ###
 
 def get_max(filename):

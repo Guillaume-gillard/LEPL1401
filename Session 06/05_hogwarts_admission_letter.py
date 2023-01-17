@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 17/01/2022
-
 ### Code to complete [START] ###
 
 def write(letter_template, name):
