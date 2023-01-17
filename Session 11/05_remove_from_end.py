@@ -1,8 +1,3 @@
-# Guillaume Gillard
-# 22/12/2022
-
-from linkedlist import LinkedList
-
 
 #### Code to complete [START] ####
 

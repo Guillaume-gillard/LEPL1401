@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 22/12/2022
-
 class Child:
     def is_next_valid():  #return a boolean
         pass

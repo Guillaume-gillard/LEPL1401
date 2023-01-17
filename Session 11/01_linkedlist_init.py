@@ -1,7 +1,5 @@
-# Guillaume Gillard
-# 11/12/2022
-
-from linkedlist import LinkedList, Node 
+class Node :
+    pass
 
 ### Code to complete [START] ###
 
