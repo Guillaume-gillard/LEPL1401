@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 15/10/2022
-
 ### Code to complete [START] ###
 
 water_vol = 0
