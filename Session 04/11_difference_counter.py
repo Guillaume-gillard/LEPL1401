@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 02/11/2022
-
 def diff_count(lst):
 
     ### Code to complete [START] ###

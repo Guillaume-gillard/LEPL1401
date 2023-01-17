@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 09/11/2022
-
 def solution(a, b, c):
     """
     pre:  a, b et c sont 3 nombres réels

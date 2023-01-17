@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 21/10/2022
-
 def average(list):
 
     ### Code to complete [START] ###

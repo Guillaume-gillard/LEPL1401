@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 09/11/2022
-
 ### Code to complete [START] ###
 
 def is_prime(i, prime_number):

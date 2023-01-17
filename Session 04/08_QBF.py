@@ -1,6 +1,3 @@
-# Guillaume Gillard
-# 21/10/2022
-
 def positions(p,s):
     """
     pre : p est un pattern, c'est-à-dire une chaîne de
