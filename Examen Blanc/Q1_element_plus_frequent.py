@@ -1,6 +1,4 @@
 # Guillaume Gillard
-# 20/12/2022
-
 
 def plus_frequent(l):
     """

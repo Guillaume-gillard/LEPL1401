@@ -1,3 +1,5 @@
+# Guillaume Gillard
+
 def load_matrix(filename):
     """
     pre: `filename` est un nom de fichier
