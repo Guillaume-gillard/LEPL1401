@@ -13,7 +13,7 @@ def translate(data):
     try :
         traduction = ""
         for x in data.strip():
-            traduction += morse[x.upper()]
+            traduction += morse[x] 
         return traduction
     except :
         raise ValueError("Unregistered character !")
