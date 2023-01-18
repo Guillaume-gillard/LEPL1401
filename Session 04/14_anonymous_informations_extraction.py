@@ -1,11 +1,8 @@
 ### Code to complete [START] ###
-
-import string 
-    
+  
 def extract(code):
     code = str(code)
     composition = ""
-    alphabet = string.ascii_lowercase + string.ascii_uppercase # voir docu python
     number = "1234567890"
     vowel = "aeiouy"
     vowel_up = vowel.upper()
