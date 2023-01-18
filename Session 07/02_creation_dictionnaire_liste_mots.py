@@ -1,6 +1,5 @@
 ### Code to complete [START] ###
 
-
 def create_index(list_of_words):
     d = {}
     pos = 0
