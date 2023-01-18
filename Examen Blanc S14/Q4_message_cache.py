@@ -1,5 +1,4 @@
 # Guillaume Gillard
-# 19/12/2022
 
 def create_file():
     pass

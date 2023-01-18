@@ -1,5 +1,4 @@
 # Guillaume Gillard
-# 20/12/2022
 
 from Q5_contexte import SudokuPuzzle, SudokuCarre
 
